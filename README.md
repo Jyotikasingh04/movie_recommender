@@ -2,7 +2,7 @@
 
 An end-to-end movie recommendation web app combining a **FastAPI** backend with a **Streamlit** frontend. It suggests movies using **TF-IDF content-based similarity** on a local dataset, and enriches results with **live posters, genres, and metadata from TMDB**.
 
-**Live Demo:** _add your Streamlit Cloud link here_
+**Live Demo:**
 **API:** https://movie-rec-466x.onrender.com
 
 ---
